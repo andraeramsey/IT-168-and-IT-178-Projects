@@ -1,0 +1,34 @@
+		System.out.print("Plain"+plainCheesecakeCount);
+		System.out.print("Marble"+marbleCheesecakeCount);
+		System.out.print("Chocolate Chip"+chocoChipCheesecakeCount);
+		System.out.print("Variety"+varietyCheesecakeCount);
+
+
+
+
+
+
+
+
+CheesecakeOrder class
+Keeps track of the number of each kind of cheesecakes ordered and handles all calculations.  It should include the following:
+•	Named Constants
+o	Use constants for the rate that will be used to calculate the amount from the total cost that will be donated to the school
+o	Use constants for the prices for different types of ice creams 
+•	Instance Variables
+o	Four variables to keep track of how many cheesecakes are ordered for each type
+•	Methods
+o	calculateSubTotal method which will determine the cost for the cheesecake ordered.
+o	calculateTotal method to compute the total cost.
+o	calculateDonationAmount to calculate the amount from the total order cost that will be donated to the school
+o	Getters and setters for each instance variable
+o	Getters for the all price constants
+
+
+
+CheesecakeOrderDriver class
+This is the starting point for the application which is the only class to contain a main method.  It needs to create an object for the other class and implements the algorithm for the program. For your information, it handles all of the input and output for the program.
+
+Design Requirements
+•	Algorithm written for the main method (in PDF or MS-word format)
+•	Test data and expected results form filled out. A document (both in PDF and MS-Word format) that can be filled out on the computer and saved will be provided. You may use either format that works for you better.
