@@ -1,0 +1,64 @@
+Alaska Airlines
+IATA ASA ALASKA
+Mileage Plan
+
+SeaTac
+WA
+USA
+alaskaair.com
+Allegiant Air
+G4 AAY ALLEGIANT
+
+
+Enterprise
+NV
+USA
+allegiantair.com
+Air Canada
+AC ACA AIR_CANADA
+Aeroplan
+Star Alliance
+Montreal
+QC
+Canada
+aircanada.com
+Lufthansa
+LH DLH LUFTHANSA
+Miles & More
+Star Alliance
+Cologne
+
+Germany
+lufthansa.com
+American Airlines
+AA AAL AMERICAN
+AAdvantage
+Oneworld
+Fort Worth
+TX
+USA
+aa.com
+United Airlines
+UA UCAL UNITED
+MileagePlus
+Star Alliance
+Chicago
+IL
+USA
+united.com
+Delta Airlines
+DL DAL DELTA
+SkyMiles
+SkyTeam
+Atlanta
+GA
+USA
+delta.com
+Hawaiian Airlines
+HA HAL HAWAIIAN
+HawaiianMiles
+
+Honolulu
+HI
+USA
+hawaiianair.com

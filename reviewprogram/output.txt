@@ -1,0 +1,78 @@
+Mulberry and Linden is at		 40.5113256,  -88.9824686
+
+College Hills is at		 40.5061118,  -88.9563482
+
+Kroger is at		 40.5104488,  -88.9565417
+
+Landmark and Parkway is at		 40.5139585,  -88.9547601
+
+Walmart is at		 40.5154305,  -88.9503765
+
+Meijer is at		 40.5104121,  -88.9418875
+
+Hershey and Farm is at		 40.5145904,  -88.9425772
+
+Ft. Jesse and Halstead is at		 40.5177552,  -88.9403849
+
+Greenbriar and Shepard is at		 40.5244473,  -88.9498702
+
+Towanda and Kays is at		 40.5208002,  -88.9608451
+
+College and Linden is at		 40.5104393,  -88.9824157
+
+Evergreen Village is at		 40.5333856,  -88.9619824
+
+Linden and Shelbourne is at		 40.5242854,  -88.9829198
+
+Woodhill Towers is at		 40.4714475,  -88.9932091
+
+Hiltop Trailer Park is at		 40.4582013,  -88.9927867
+
+State Farm Park is at		 40.45156,  -88.987144
+
+Southgate Estates is at		 40.448335,  -88.987327
+
+Dairy Queen is at		 40.459987,  -88.992293
+
+Lincoln Towers is at		 40.477392,  -88.995886
+
+Wood and Main is at		 40.4714325,  -88.9932641
+
+Dunn and Main is at		 40.4602905,  -88.9928475
+
+Hamilton and Morris is at		 40.449727,  -89.0056613
+
+Fox Creek and Veterans is at		 40.4502359,  -89.0147456
+
+Fox Creek and Danbury is at		 40.4512955,  -89.0296141
+
+Main and Dunn is at		 40.4602905,  -88.9928475
+
+Elm and Center is at		 40.4722195,  -88.9942565
+
+Emerson and Clinton is at		 40.493149,  -88.9851627
+
+Vernon and Broadway is at		 40.504832,  -88.9857389
+
+Broadway and Beaufort is at		 40.5083815,  -88.9857556
+
+Willow and Beech is at		 40.5141505,  -88.9777237
+
+Shelbourne and Beech is at		 40.5244459,  -88.9780066
+
+Raab and Beech is at		 40.531804,  -88.9773348
+
+Ironwoods Garden is at		 40.544282,  -88.982331
+
+Linden and Willow is at		 40.5140604,  -88.9825791
+
+Uptown Normal is at		 40.5094165,  -88.9872019
+
+Amtrak is at		 40.5082769,  -88.9836591
+
+Vernon and Fell is at		 40.5048029,  -88.9870295
+
+Heritage Manor is at		 40.486935,  -88.984875
+
+Washington and Clinton is at		 40.479735,  -88.984475
+
