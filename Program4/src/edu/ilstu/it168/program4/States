@@ -1,0 +1,210 @@
+		System.out.print("\n\nSubTotal:\t\t+"+order.calculateSubTotal()+"\n\n");
+
+
+
+
+AL,AZ,AR,CA,CO,CT,DE,FL,GA,ID,IL,IN,IA,KS,KY,LA,ME,MD,MA,MI,MN,MS,MO,MT,NE,NV,NH,NJ,NM,NY,NC,ND,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VT,VA,WA,WV,WI,WY
+
+AK,HI
+
+
+
+public AddressBook(String firstName, String lastName, String address, String city, String state, String zipCode){}
+
+
+
+
+package edu.ilstu;
+
+import java.util.Scanner;
+
+public class Menu {
+
+   /**
+    * <insert method description here>
+    *
+    * @param:
+    *
+    */
+   public static void main(String[] args) {
+       int choice = 0;
+       Scanner scannerObject = new Scanner(System.in);
+
+       System.out.println("Redbird Merchandise Shop\n");
+       System.out.println("1:  Redbird T-shirt");
+       System.out.println("2:  Redbird Sweatshirt");
+       System.out.println("3:  Redbird Hat");
+       System.out.println("4:  Redbird Banner");
+       System.out.println("5.  Done.\n");
+
+       System.out.print("Make your selection (1-5) ");
+       choice = scannerObject.nextInt();
+
+       while (choice != 4){
+           switch (choice){
+               case 1:
+                   System.out.println("How many of these would you like?");
+                   break;
+               case 2:
+                   System.out.println("Choice was 2");
+                   break;
+               case 3:
+                   System.out.println("Choice was 3");
+                   break;
+               default:
+                   System.out.println("Invalid choice, please enter 1-5.");
+           }
+
+           System.out.println("Menu");
+           System.out.println("1.  Choice 1");
+           System.out.println("2.  Choice 2");
+           System.out.println("3.  Choice 3");
+           System.out.println("4.  Quit");
+
+           System.out.print("Please enter your menu choice: ");
+           choice = scannerObject.nextInt();
+       }
+
+       System.out.println("Out of loop");
+   }
+
+}
+
+
+public void readCustomer(AddressBook customer)
+	{
+		System.out.print("Enter first name:\t");
+		String firstName=keyboard.next();
+		customer.setFirstName(firstName);
+		
+		
+		System.out.print("Enter last name:\t");
+		String lastName=keyboard.next();
+		customer.setLastName(lastName);
+		
+		
+		keyboard.nextLine();
+		System.out.print("Enter street address:\t");
+		String address=keyboard.nextLine();		
+		customer.setAddress(address);
+		
+		
+		
+		System.out.print("Enter city:\t");		
+		String city=keyboard.next();
+		customer.setCity(city);
+		
+			
+		System.out.print("Enter state:\t");
+		String state=keyboard.next();
+		customer.setState(state);
+		
+		
+		System.out.print("Enter zip code:\t");
+		String zipCode=keyboard.next();
+		customer.setZipCode(zipCode);
+		
+		System.out.print("Enter phone number in form 9999999999:\t");
+		String phoneNumber=keyboard.next();
+		customer.setPhoneNumber(phoneNumber);
+		
+		//validateState?}
+
+	{
+		
+		int choice = 0;
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Redbird Merchandise Shop\n");
+		System.out.println("1:  Redbird T-shirt"+"\t\t"+"$"+"%5.2"+TSHIRT);
+		System.out.println("2:  Redbird Sweatshirt"+"\t\t"+"$"+"%5.2"+SWEATSHIRT);
+		System.out.println("3:  Redbird Hat"+"\t\t"+"$"+"%5.2"+HAT);
+		System.out.println("4:  Redbird Banner"+"\t\t"+"$"+"%5.2"+BANNER);
+		System.out.println("5.  Done.\n");
+
+		System.out.print("Make your selection (1-5) \n");
+		
+		choice = keyboard.nextInt();
+
+		while (choice != 5)
+		{
+		    switch (choice)
+		    {
+		        case 1:
+		            System.out.println("How many of these would you like?\n");
+		            order.setNumOfTshirts(numOfTshirts)=keyboard.nextInt();
+		            break;
+		        case 2:
+		            System.out.println("How many of these would you like?\n");
+		            order.setNumOfSweatshirts(numOfSweatshirts)=keyboard.nextInt();
+		            break;
+		        case 3:
+		            System.out.println("How many of these would you like?\n");
+		            order.setNumOfHats(numOfHats)=keyboard.nextInt();
+		            break;
+		        case 4:
+		        	System.out.println("How many of these would you like?\n");
+		        	order.setNumOfBanners(numOfBanners)=keyboard.nextInt();
+		        case 5:
+		        	char validateFinish;
+		        	System.out.println("Would you like to complete this order?\n");
+		        	if (validateFinish=='y')
+		        		input.readCustomer();
+		        	else if (validateFinish=='n')
+		        		output.displayThankYou();
+		        				        	
+		        default:
+		            System.out.println("Invalid choice, please enter 1-5.\n");
+		    }
+
+			System.out.println("Redbird Merchandise Shop\n");
+			System.out.println("1:  Redbird T-shirt");
+			System.out.println("2:  Redbird Sweatshirt");
+			System.out.println("3:  Redbird Hat");
+			System.out.println("4:  Redbird Banner");
+			System.out.println("5.  Done.\n");
+
+			System.out.print("Make your selection (1-5) ");
+			choice = keyboard.nextInt();
+		}
+printf("$"+"5.2f");	
+
+.charAt(0);
+		
+MerchandiseOrder subTotal,MerchandiseOrder salesTax,MerchandiseOrder deliveryCost,MerchandiseOrder total
+
+
+		
+
+82-84
+		    output.displayMenu(order);
+		    System.out.print("Make your selection (1-5) ");
+			choice = keyboard.nextInt();		
+89
+				
+		output.displayOrderSummary(order);				
+		output.displayOrderTotals(order,order,order,order);		
+		customer.formatMailingLabel();
+		output.displayThankYou();		//print merch items w/ prices formated
+		
+		
+		
+		
+		
+		        case 5:
+		        	System.out.println("Would you like to complete this order?\n");
+		        	String validateFinish=keyboard.next();		        			        	
+		        	if(validateFinish.charAt(0)=='n')
+		        		{
+		        			output.displayThankYou();
+		        			break;
+		        		}
+		        			
+		        	else if (validateFinish.charAt(0)=='y')
+		        		{
+		        			input.readCustomer(customer);		        		
+		        			output.displayOrderSummary(order);		
+		        			output.displayOrderTotals(order,customer);
+		        			output.displayCustomer(customer,input);
+		        			output.displayThankYou();
+		        			break;
+		        		}	
